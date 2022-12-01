@@ -1,0 +1,144 @@
+---
+title: "Overall Trends"
+output: html_document
+---
+
+## Overall Engagement 
+
+<br/>
+<br/>
+<br/>
+
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/general_1.png"))
+```
+
+
+
+
+<br/>
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/general_2.png"))
+```
+
+<br/>
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/landing.png"))
+```
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+## Social Media Engagement 
+
+<br/><br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="100%", out.width="100%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/sem3.png"))
+```
+<br/>
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="80%", out.width="80%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/q4.png"))
+```
+
+
+
+<br/><br/>
+
+## Aditional Information
+
+<br/>
+<br/>
+
+### [Education Level](https://www.census.gov/newsroom/press-releases/2022/educational-attainment.html#:~:text=1%20In%202021%2C%2029.4%25%20of%20men%20age%2025,more%2C%2053.1%25%20were%20women%20and%2046.9%25%20were%20men./) 
+
+In 2021, the highest level of education of the population age 25 and older in the United States was distributed as follows: 
+<br/><br/>
+
+|**Total, 25 years and over**      |**Percentage**|     
+|:--------------------------------:|:---:|
+|Less than a high school diploma   | 8.9 %|
+|High school graduates, no college | 27.9 %|
+|Some college or associate degree  | 14.9 %|
+| Completed an Associate's degree  | 10.5% |
+|Completed a Bachelor's degree     | 23.5 %|
+| Advanced Degree                  | 14.4 %|
+
+### Spanish Language 
+
+* **23%** of the total amount of leads come from **Texas** ([IM Report](https://app.powerbi.com/groups/me/reports/f381dddc-6f32-4138-82a4-185b134a5c79/ReportSectionad6d6d8da06eb3248e83/))
+
+* In Texas **40.2%** of the population are **Hispanic or Latino**
+
+* **85%** of the 23.7 million people in Texas speak a language other than English. A large majority of those speak **Spanish**.
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/map1.png"))
+```
+
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="90%", out.width="90%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/popu1.png"))
+```
+
+### Employment Status
+<br/>
+<br/>
+
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="60%", out.width="80%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/age_1.png"))
+```
+
+<br/><br/><br/>
+```{r echo=FALSE, fig.align='center', message=FALSE, warning=FALSE, out.height="60%", out.width="75%", paged.print=FALSE}
+knitr::include_graphics(c("/Users/leonardo.urbiola_fox/Desktop/R Studio/Audience/age_2.png"))
+```
+
+<br/><br/><br/>
+
+## Recommendations
+
+<br/>
+
+### Age
+
+Create content that is focused on audiences between **25 to 35 years old**. This age range provides more than 40% of the people who interact with Fox Pest Control.
+
+### Mobile device
+
+Prioritize content for **mobile devices**. 64% of our audience interacts with our websites through mobile devices.  
+
+
+### Gender
+
+Although more than 60% of our overall audience are **females** it is recommended to create content for both genders because in most of the branches the percent of females and males are relatively comparable.
+
+### Interest
+
+The top 2 interests of the population who search for pest control are **Home & Garden/Home Decor** and **Real Estate/Residential Properties**. The most popular reason is because most people want to either protect or sell their homes. 
+It is recommended to advertise Fox Pest Control in real estate and home improvement retail websites. 
+
+### Content in Spanish 
+
+Create Content in **Spanish**. 23% of the leads received in 2022 come from Texas. Around 85% of the population in Texas speak Spanish and 40% are Hispanic or Latino. According to the U.S. Census in 2021, around 15% of the population in Texas did not speak English well and more than a third of the population feel more comfortable speaking a language other than English. Additionally, NY and IL are listed on the top 5 states where Spanish is spoken. 22% of the leads we obtained in 2022 are from these two states. 
+
+ 
+
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+

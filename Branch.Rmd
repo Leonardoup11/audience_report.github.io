@@ -1,0 +1,58 @@
+---
+title: "Branch Comparation"
+output: html_document
+---
+
+<br/><br/><br/>
+
+### Division 1 
+
+<br/><br/>
+
+| **Branch**|**Age** |**Gender**|**Average # Kids**|**Marital Status**|**Interest**|**Device**| **Median Household Income**|**Work Status**|**Education Level**|
+|:---------:|:------:|:--------:|:------:|:----------------:|:----------:|:--------:|:---------:|:-------------:|:-----------:|
+|Albany     |25-34   | Male     | 1.8-2    |  Never Married   |Home & Garden | Desktop|    $68,327|Employed       | High School |     |      |
+|Buffalo    |25-34   | Male     | 1.8-2    | Married          | Home & Garden| Desktop|    $39,677|Employed        | some College  |     |      |
+|Long Island|25-34   | Male     | 1.8-2    | Married          | Home & Garden| Desktop|    $74,950|Employed       | Bachelor's Degree  |     |      |
+|Rochester  |25-34   | Female   | 1.8-2   | Never Married    | Home & Garden| Desktop|    $61,747|Employed       | Bachelor's Degree  |     |      |
+|Syracuse   |23      | Female   | 1.8-2    | Married          | Home & Garden| Mobile |    $61,890|Employed       | Bachelor's Degree  |     |      |
+|Hudson Valley|25-34 | Male     | 1.8-2    | Married          | Real State   | Desktop|   $59,562 |Employed       | High School |     |      |
+|Central NJ | 23     | Female   | 1.8-2    | Never Married    | Home & Garden| Mobile |   $83,306 |Employed       | Bachelor's Degree |     |      |
+|Harrisburg | 23     | Female   |  1.8-2   | Married          | Home & Garden| Mobile |   $41,831 | Employed      | High School |     |      |
+|Lancaster  |23      | Female   | 1.8-2    | Never Married    | Home & Garden| Mobile |   $69,588 |Employed       | Bachelor's Degree  |     |      |
+|Baltimore  |23      | Female   | 1.7-1.8    | Married          | Home & Garden| Mobile |   $52,164 |Employed       | Bachelor's Degree  |     |      |
+|RI - Providence|23  | Female   | 1.9-2    | Married          | Home & Garden| Mobile |   $62,323 |Employed       | some College  |     |      |
+|Boston     |25-34   | Male     | 1.7-1.8    | Married          | Real State   | Desktop|   $76,298 |Employed       | Bachelor's Degree  |     |      |
+|Eastern MA |25-34   | Male     | 1.7-1.8    | Married          |Residential Properties | Mobile|$74,985|Employed   | High School |     |      |
+| CT        |35-44   | Female   | 1.8-1.9    | Married          |Residential Properties | Desktop|$71,370|Employed  | High School |     |      |
+|Manchester |25-34   | Male     | 1.7-1.8    | Never Married    | Real State   |Desktop |  $62,087  |Employed       | some College |     |      |
+| Pittsburgh|23      | Female   |  1.9-2   | Married          | Home & Garden| Mobile |  $61,969  |Employed       | High School |     |      |
+
+
+
+
+
+<br/><br/><br/>
+
+### Division 2
+
+<br/><br/>
+
+| **Branch**|**Age** |**Gender**|**Average # Kids**|**Marital Status**|**Interest**|**Device**| **Median Household Income**|**Work Status**|**Education Level**|
+|:---------:|:------:|:--------:|:------:|:----------------:|:----------:|:--------:|:---------:|:-------------:|:-----------:|:----------------:|
+|Corpus Christi     |25-34   | Male     | 2    | Married          |Home & Garden | Desktop|    $57,387|Employed         | some College |     |      |
+|Lubbock    |25-34   | Male     |2    | Never Married           | Home & Garden| Desktop|    $51,623|Employed        | High School  |     |      |
+|McAllen |25-34   | Male     | 2    | Married          | Home & Garden| Desktop|    $49,259     |Employed         | High School  |     |      |
+|Midland  |25-34   | Female   | 2    | Married          | Home & Garden| Desktop|    $83,616|       Employed        | Bachelor's Degree  |     |      |
+|DFW   |23      | Female   | 2    | Never Married           | Home & Garden| Mobile |    $64,567|   Employed            | Bachelor's Degree  |     |      |
+|VA Beach |25-34 | Male     | 1.8-1.9    | Married          | Real State   | Desktop|       $ 78,136 |  Employed             | Bachelor's Degree |     |      |
+|Northern VA | 23     | Female   | 1.9-2    | Married          | Home & Garden| Mobile |   $86,227 |    Employed           | Bachelor's Degree |     |      |
+|Lexington  |23      | Female   |  1.8-1.9   | Married          | Home & Garden| Mobile |   $58,954 |   Employed            | Bachelor's Degree  |     |      |
+|Orlando  |23      | Female   | 1.9-2     | Married          | Home & Garden| Mobile |   $55,183 |     Employed          | some College  |     |      |
+|Baton Rouge|23  | Female   | 1.9-2    | Married          | Home & Garden| Mobile |   $60,043      |    Employed           | Bachelor's Degree  |     |      |
+|Lafayette  |25-34   | Male     | 1.9-2    | Never Married           | Real State   | Desktop|   $52,827 |  Employed             | High School  |     |   |
+|Northshore |25-34   | Male     | 1.9-2    | Never Married           | Residential Properties| Mobile    |     $48,745  | Employed   | High School | |     |
+| Bloomington|35-44   | Female   | 1.9-2    | Married          | Residential Properties| Desktop   |  $66,861     | Employed   | some College | |     |
+|Chicago |25-34   |Male      | 1.9-2    | Never Married           | Real State   |Desktop |  $62,097  |   Employed            | High School |     |      |
+
+
